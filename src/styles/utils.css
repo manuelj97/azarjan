@@ -1,0 +1,13 @@
+body{
+    margin: 30px auto 0px auto;
+    padding: 0;
+    box-sizing: border-box;
+    width: 85vw;
+    font-family: "Red Hat Display";
+    color: #2E2C2C;
+    background-color:#F8F8F8;
+}
+
+.hidden{
+    display:none;
+}
